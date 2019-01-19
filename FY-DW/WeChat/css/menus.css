@@ -1,0 +1,16 @@
+.menus{
+    height: 50px;
+    background-color: #fff1f1;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.menus_img{
+    height: 35px;
+    width: 35px;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

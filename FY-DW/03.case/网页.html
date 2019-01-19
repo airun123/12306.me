@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .container{
+            height: 700px;
+            width: 100%;
+            background-color: lightgoldenrodyellow;
+            /*position: fixed;*/
+            /*display: flex;*/
+        }
+        .a{
+            height: 70px;
+            width: 100%;
+            background-color: blueviolet;
+            display: flex;
+        }
+        .border{
+            height: 70px;
+            width: 100px;
+            border: #a5246f solid 2px;
+            line-height: 70px;
+            text-align: center;
+        }
+        .border:hover{
+           box-shadow: 0px 0px 5px #0b070c;
+            color: #fff1f1;
+        }
+        .b{
+            height: 630px;
+            width: 100%;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+
+        }
+        #d1{
+            height: 400px;
+            width: 300px;
+
+        }
+        #d2{
+            height: 500px;
+            width: 550px;
+        }
+        #d3{
+            height: 300px;
+            width: 250px;
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="a">
+        <div class="border" ><a href="http://www.baidu.com">Home</a></div>
+        <div class="border">Profile</div>
+        <div class="border">Messages</div>
+        <div class="border">Settings</div>
+    </div>
+    <div class="b border">
+        <div id="d1" class="border"></div>
+        <div id="d2" class="border"></div>
+        <div id="d3" class="border"></div>
+
+    </div>
+</div>
+
+</body>
+</html>
