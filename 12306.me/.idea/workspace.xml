@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24b4e7a4-9a76-4a5f-a6db-03271442171b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/abc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/character.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/day.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/k.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/menus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/photo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/query.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/refer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/signal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/static.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/Css/travel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/0.1/timg.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/0.1/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/-我的.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/timgC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/timgT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/timgY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/手机卡.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/扫一扫.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/搜索.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/时间.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/服务.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/消息.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/箭头_左右切换.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/行李箱.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/订单.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/钻石.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/铁路1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/银行卡.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/index/餐饮.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/ing/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/ing/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/me/向下.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/一卡通.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/保存.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/候补下单.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/分享.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/刷新图标.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/发时最早.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/向右.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/始.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/日历.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/省份证.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/省略号.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/票价.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/筛选.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/终.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/耗时最短.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/过.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/查询车票/长箭头.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/timgF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/tjmgE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/保险.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/已支付.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/待支付订单.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/订单-增加.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/订单/车票.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/铁路畅行/timgg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/铁路畅行/会员信息.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/铁路畅行/礼盒.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/铁路畅行/金币.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/铁路畅行/钻石.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/img/铁路畅行/问号.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/查询车票.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/订单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dw/铁路畅行.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FY-DW/12306/Dw/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FY-DW/12306/Dw/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FY-DW/12306/Dw/订单.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FY-DW/12306/Dw/订单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FY-DW/12306/Dw/铁路畅行.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FY-DW/12306/Dw/铁路畅行.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FY-DW/img/bootstrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FY-DW/img/hadoop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FY-DW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FY-DW/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Dw/me.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/Dw/me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Dw/订单.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/Dw/订单.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dw/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="38" />
+    <option name="width" value="1774" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="12306.me" type="b2602c69:ProjectViewProjectNode" />
+              <item name="12306.me" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dwing\abc\12306.me" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b4e7a4-9a76-4a5f-a6db-03271442171b" name="Default Changelist" comment="" />
+      <created>1547944500496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547944500496</updated>
+      <workItem from="1547944502697" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dw/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dw/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
